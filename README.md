@@ -16,7 +16,7 @@ El archivo `S5 ladb_mobility_economy_project_student.ipynb` es el notebook princ
 
 ## Cómo abrir el notebook en Google Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/elpollodiaz/ladb_mobility_economy_project/blob/main/S5%20ladb_mobility_economy_project_student.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JuanDiaz-DataAnalyst/ladb_mobility_economy_project/blob/main/S5%20ladb_mobility_economy_project_student.ipynb)
 
 También puedes abrirlo manualmente: entra al archivo `.ipynb` dentro de este repositorio y haz clic en el botón "Open in Colab".
 
